@@ -74,7 +74,8 @@ Conduct regular performance reviews and evaluations to identify areas for improv
 
 <h2>Language Used</h2>
 
-- <b>Python</b>
+- <b>SQL</b>
+- <b>Tableau</b>
  
 
 
