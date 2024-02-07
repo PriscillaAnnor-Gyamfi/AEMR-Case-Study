@@ -1,5 +1,11 @@
 <h1>AEMR Case Study</h1>
 
+<p align="center">
+ <br/>
+<img src="https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3Bvd2VyLWdyaWQtMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjI5MH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ==" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 
 
 <h2>Overview</h2>
@@ -59,22 +65,6 @@ Conduct regular performance reviews and evaluations to identify areas for improv
 - <b>By implementing these recommendations, AEMR can enhance energy stability, improve market reliability, and reduce the frequency and impact of outage events in the future.
 </b>
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h2>Language Used</h2>
