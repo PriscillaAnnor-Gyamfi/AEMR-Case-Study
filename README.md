@@ -86,7 +86,7 @@ Conduct regular performance reviews and evaluations to identify areas for improv
 
 <h2>Environments Used </h2>
 
-- <b>Jupyter Notebook</b> 
+- <b>Tableau Public</b> 
 - <b>Windows 10</b> 
 
 <h2>Graphical Representations of some Key findings:</h2>
