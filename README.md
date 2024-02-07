@@ -78,10 +78,12 @@ Conduct regular performance reviews and evaluations to identify areas for improv
 - <b>Tableau Public</b> 
 - <b>Windows 10</b> 
 
-<h2>Graphical Representations of some Key findings:</h2>
 
 
-<!
+<!--<h2>Graphical Representations of some Key findings:</h2>
+
+
+
 <p align="center">
  <br/>
 <img src="https://i.imgur.com/vSLbYHF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -99,7 +101,7 @@ Hotel Types and Cancellations:  <br/>
 <img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-!>
+--!>
 
 <!--
  ```diff
