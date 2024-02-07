@@ -70,9 +70,8 @@ Conduct regular performance reviews and evaluations to identify areas for improv
 <h2>Language Used</h2>
 
 - <b>SQL</b>
-- <b>Tableau</b>
- 
 
+ 
 
 <h2>Environments Used </h2>
 
@@ -82,7 +81,7 @@ Conduct regular performance reviews and evaluations to identify areas for improv
 <h2>Graphical Representations of some Key findings:</h2>
 
 
-
+<!
 <p align="center">
  <br/>
 <img src="https://i.imgur.com/vSLbYHF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -100,7 +99,7 @@ Hotel Types and Cancellations:  <br/>
 <img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
+!>
 
 <!--
  ```diff
