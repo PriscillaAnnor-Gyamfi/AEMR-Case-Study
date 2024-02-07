@@ -25,10 +25,10 @@ What strategies can be implemented to decrease energy loss by approximately 5% a
      high recorded outage events, primarily forced outages, and energy loss during the 2016/2017 period.</b>
 - <b>Additionally, an analysis of complaints descriptions associated with the recorded outages identified the top three issues and their corresponding facilities:
 
-Operational issues causing real-time forced outage (BW1_GREENWATER facility)
-FO (PJRH_GT11 facility)
-TES Report_constrained off MW's (PEATHENENERGY_KOR facility)
-Deviation from dispatch (TIWEST_COG1 facility)."
+<b>Operational issues causing real-time forced outage (BW1_GREENWATER facility)<b>
+<b>FO (PJRH_GT11 facility)<b>
+<b>TES Report_constrained off MW's (PEATHENENERGY_KOR facility)
+Deviation from dispatch (TIWEST_COG1 facility)."<b>
 </b>
  
  
