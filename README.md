@@ -63,6 +63,7 @@ Conduct regular performance reviews and evaluations to identify areas for improv
 
 
 <h2>Tools Used</h2>
+
 - <b>SQL</b>
 - <b>Tableau</b>
 
