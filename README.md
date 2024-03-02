@@ -62,38 +62,21 @@ Conduct regular performance reviews and evaluations to identify areas for improv
  
 
 
-<h2>Language Used</h2>
-
+<h2>Tools Used</h2>
 - <b>SQL</b>
+- <b>Tableau</b>
 
  
 
 <h2>Environments Used </h2>
 
-- <b>Tableau Public</b> 
+- <b>Tableau Public</b>
+- <b>SQL Server Management Studio</b> 
 - <b>Windows 10</b> 
 
+<b>Graphical Representations in Tableau [here](https://public.tableau.com/app/profile/priscilla.annor.gyamfi/viz/AEMRPROJECT/Story1)
+</b>
 
-
-<!--<h2>Graphical Representations of some Key findings:</h2>
-
-
-
-<p align="center">
- <br/>
-<img src="https://i.imgur.com/vSLbYHF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-  <br/>
-<img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Market Segments: <br/>
-<img src="https://i.imgur.com/6mbYe9Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Hotel Types and Cancellations:  <br/>
-<img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 --!>
