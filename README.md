@@ -44,7 +44,8 @@ Invest in workforce training to ensure efficient response and resolution of forc
 </b>
 - <b>Optimize Scheduled Outages:
 Review and streamline scheduled maintenance processes to minimize downtime while ensuring effective performance and reliability.
-Coordinate scheduled outages more effectively to reduce their duration and minimize their impact on energy loss.</b>
+Coordinate scheduled outages more effectively to reduce their duration and minimize their impact on energy loss.
+</b>
 - <b>Prioritize Investments in Reliable Energy Providers and Facilities:
 Conduct thorough assessments of energy providers and facilities to identify areas for improvement and prioritize investments in enhancing reliability.
 Collaborate with unreliable providers to address underlying issues and improve outage management practices.</b>
