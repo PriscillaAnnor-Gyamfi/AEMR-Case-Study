@@ -40,8 +40,7 @@ What strategies can be implemented to decrease energy loss by approximately 5% a
 - <b>Implement Strategies to Reduce Forced Outages:
 Develop proactive maintenance plans to address equipment reliability issues and minimize forced outages.
 Enhance monitoring systems to detect potential failures early and prevent unplanned downtime.
-Invest in workforce training to ensure efficient response and resolution of forced outage incidents.
-</b>
+Invest in workforce training to ensure efficient response and resolution of forced outage incidents.</b>
 - <b> Optimize Scheduled Outages:
 Review and streamline scheduled maintenance processes to minimize downtime while ensuring effective performance and reliability.
 Coordinate scheduled outages more effectively to reduce their duration and minimize their impact on energy loss.</b>
