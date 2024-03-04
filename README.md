@@ -59,7 +59,7 @@ Strengthen communication and collaboration among relevant stakeholders to ensure
 Establish performance metrics and key performance indicators (KPIs) to monitor the effectiveness of outage management initiatives.
 Conduct regular performance reviews and evaluations to identify areas for improvement and make necessary adjustments to outage management strategies.</b>
 - <b>By implementing these recommendations, AEMR can enhance energy stability, improve market reliability, and reduce the frequency and impact of outage events in the future.</b>
-
+<br />
  
 
 
